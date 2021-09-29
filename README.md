@@ -3,7 +3,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django, React, ML, DL, DataScience, Robotics etc
 - 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me at umairmehmoodapi1995@gmail.com
+- 📫 How to reach me at umairapi1995@gmail.com
 
 
 <!--
