@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m @humairmehmood
+- 👋 Hi, I’m Umair Mehmood
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django, React, ML, DL, DataScience, Robotics etc
 - 💞️ I’m looking to collaborate on open source
