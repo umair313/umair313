@@ -1,4 +1,3 @@
-![Umair-mehmood](/images/Github-profile-card.png)
 ![Umair-mehmood-bg](/images/Github-profile-card-without-background.png)
 
 ### Hi there 👋
